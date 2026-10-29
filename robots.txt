@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gravion-dev.github.io/gravion-website/sitemap.xml
